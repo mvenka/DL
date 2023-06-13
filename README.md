@@ -14,9 +14,9 @@ Problem statement: To build a CNN based model which can accurately detect melano
 - Early detection of skin cancer could save lifes
 - Evaluate images and alert dermatologists about the presence of melanoma at early stages
 - The data set contains the following diseases:
-    --Actinic keratosis
-    --Basal cell carcinoma
-    --Dermatofibroma
+    -- Actinic keratosis
+    -- Basal cell carcinoma
+    -- Dermatofibroma
     Melanoma
     Nevus
     Pigmented benign keratosis
