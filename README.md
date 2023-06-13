@@ -40,16 +40,15 @@ Problem statement: To build a CNN based model which can accurately detect melano
 - sklearn
 - Tensorflow
 - Keras
+- Pandas
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
+- Upgrad
 - Kaggle
 - Github
 - Google
-- Upgrad
-- Pandas
-
 
 ## Contact
 Created by [@mvenka] - feel free to contact me!
