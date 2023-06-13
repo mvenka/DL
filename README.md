@@ -10,18 +10,28 @@ Problem statement: To build a CNN based model which can accurately detect melano
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert             dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+- Early detection of skin cancer could save lifes
+- Evaluate images and alert dermatologists about the presence of melanoma at early stages
+- The data set contains the following diseases:
+    Actinic keratosis
+    Basal cell carcinoma
+    Dermatofibroma
+    Melanoma
+    Nevus
+    Pigmented benign keratosis
+    Seborrheic keratosis
+    Squamous cell carcinoma
+    Vascular lesion
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- From the provided data set, concluded that
+  As training accuracy increases linearly overtime, where as validation accuracy increases in the process of training.
+  Training loss decreases with epochs the validation loss also decreases.
+  Above plot shows gap between accuracy for training and validation have decreases significantly compared to previous model and achived around 62% on validation set
+  Accuracy difference between training and validation is less
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -34,14 +44,15 @@ Problem statement: To build a CNN based model which can accurately detect melano
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Kaggle
+- Github
+- sklearn
+- Tensorflow
+- Keras
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@mvenka] - feel free to contact me!
 
 
 <!-- Optional -->
